@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(080, 127, 104);
+}
+
+#peg{
+    color: rgb(249, 077, 060);
+    font-size: 6em;
+    font-family: fantasy;
+    
+}
+
+.menu{
+    color: white;
+    border: 3px solid;
+}
+
+#ver{
+    font-family: 'Courier New';
+    float:right;
+}
