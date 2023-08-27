@@ -1,9 +1,8 @@
 #main{
     width: 100%;
     height: auto;
+    margin: 0px;
 }
-
-
 #peg{
     color: rgb(249, 077, 060);
     font-size: 6em;
@@ -11,8 +10,8 @@
 }
 
 .menu{
-    color: rgb(196, 120,85);
-    border: 3px solid;
+    background-color: rgb(196, 120,85);
+    color: white;
 }
 
 #ver{
