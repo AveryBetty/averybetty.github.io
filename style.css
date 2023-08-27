@@ -1,6 +1,8 @@
-body{
-    background-color: rgb(080, 127, 104);
+#main{
+    width: 100%;
+    height: auto;
 }
+
 
 #peg{
     color: rgb(249, 077, 060);
@@ -9,7 +11,7 @@ body{
 }
 
 .menu{
-    color: white;
+    color: rgb(196, 120,85);
     border: 3px solid;
 }
 
@@ -17,3 +19,4 @@ body{
     font-family: 'Courier New';
     float:right;
 }
+
