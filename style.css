@@ -1,3 +1,24 @@
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(196, 120,85);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: white;
+    color: rgb(196, 120,85);
+}
+.navbar li{
+    float: left;
+}
 #main{
     width: 100%;
     height: auto;
@@ -8,14 +29,7 @@
     font-size: 6em;
     font-family: fantasy;
 }
-
-.menu{
-    background-color: rgb(196, 120,85);
-    color: white;
-}
-
 #ver{
     font-family: 'Courier New';
     float:right;
 }
-
