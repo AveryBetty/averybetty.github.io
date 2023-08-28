@@ -29,6 +29,14 @@
     color: rgb(249, 077, 060);
     font-size: 6em;
     font-family: fantasy;
+    position: fixed;
+}
+#arrow{
+    position: absolute;
+    margin-left: -57%;
+    margin-top: 26%;
+    width: 12%;
+    transform: rotate(60deg);
 }
 #ver{
     font-family: 'Courier New';
