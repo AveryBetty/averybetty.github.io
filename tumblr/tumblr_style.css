@@ -4,10 +4,18 @@
     position: fixed;
     text-align: center;
 }
+#lilith a{
+    color: white;
+    text-decoration: none;
+}
 #avery{
     background-color: rgb(196,120,85);
     width: 49.2%;
     position: fixed;
     margin-left: 50%;
     text-align: center;
+}
+#avery a{
+    color: white;
+    text-decoration: none;
 }
