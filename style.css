@@ -14,7 +14,7 @@
 }
 .navbar a:hover{
     background-color: white;
-    color: rgb(196, 120,85);
+    color: rgb(196,120,85);
 }
 .navbar li{
     float: left;
@@ -23,6 +23,7 @@
     width: 100%;
     height: auto;
     margin: 0px;
+    background-color: rgb(080,127,104);
 }
 #peg{
     color: rgb(249, 077, 060);
