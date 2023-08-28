@@ -1,6 +1,10 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
 #lilith{
     background-color: rgb(080,127,104);
-    width: 49.5%;
+    width: 50%;
     position: fixed;
     text-align: center;
 }
@@ -10,7 +14,7 @@
 }
 #avery{
     background-color: rgb(196,120,85);
-    width: 49.2%;
+    width: 50%;
     position: fixed;
     margin-left: 50%;
     text-align: center;
