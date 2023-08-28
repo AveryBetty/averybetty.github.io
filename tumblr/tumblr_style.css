@@ -1,6 +1,13 @@
 #lilith{
     background-color: rgb(080,127,104);
+    width: 49.5%;
+    position: fixed;
+    text-align: center;
 }
 #avery{
     background-color: rgb(196,120,85);
+    width: 49.2%;
+    position: fixed;
+    margin-left: 50%;
+    text-align: center;
 }
