@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+}
+#truth{
+    text-align: center;
+    padding-top: 25%;
+    font-family: 'Times New Roman';
+    font-size: 15px
+}
