@@ -9,27 +9,10 @@
         <h1>hi</h1>
         <h2>if you see this, here's an early versoin of a bot that lets you spam any transphobic email lines</h2>
         <h3>you can copy and paste any of this for now, but thats about it</h3>
+        <h5> and yes im aware the pyscript formatting is shit, thats the only way i could make it work</h5>
 
-        <py-script>
-            import random
+        <py-script src="main.py">
 
-doc = 'transphobia.txt'
-
-try:
-    with open(doc, 'r') as file:
-        doc_contents = file.read()
-        words = doc_contents.split()
-        num_words = random.randint(1, 1000)
-        num_words = min(num_words, len(words))
-        random_words = random.sample(words, num_words)
-        payload = ' '.join(random_words)
-        
-        print(payload)
-            
-except FileNotFoundError:
-    print(f"The file '{doc}' was not found.")
-except Exception as e:
-    print(f"An error occurred: {e}")
         </py-script>
     </body>
 </html>
