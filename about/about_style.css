@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(080,127,104);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#welcome{
+    font-size: 5em;
+    margin-left: 2%;
+}
+#fire{
+    font-size: 2em;
+    margin-left: 2%;
+}
+#hoover{
+    font-size: 1.1em;
+    margin-left: 2%;
+}
+#follow a{
+    font-size: 1.8em;
+    color: white;
+    font-style: italic;
+    margin-left: 2%;
+}
+#cool a{
+    font-size: 1.4em;
+    color: white;
+    font-style: italic;
+    margin-left: 2%;
+}
+#nightmare{
+    margin-left: 2%;
+}
+#stock{
+    opacity: 20%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
